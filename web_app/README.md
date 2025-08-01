@@ -26,7 +26,7 @@
 
 ### 1. استنساخ المشروع
 ```bash
-git clone https://github.com/YOUR_USERNAME/voice-ordering-system.git
+git clone https://github.com/Atiaf/voice-ordering-system.git
 cd voice-ordering-system/web_app
 ```
 
@@ -161,7 +161,7 @@ def analyze_order(text):
 
 ## 👥 المطورون
 
-- **اسمك** - *المطور الرئيسي* - [GitHub](https://github.com/YOUR_USERNAME)
+- **Atiaf** - *المطور الرئيسي* - [GitHub](https://github.com/Atiaf)
 
 ## 🙏 شكر وتقدير
 
