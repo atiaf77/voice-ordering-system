@@ -13,8 +13,8 @@
 
 ### 2. ربط المستودع المحلي بـ GitHub
 ```bash
-# أضف remote للمستودع (استبدل USERNAME بحسابك)
-git remote add origin https://github.com/Atiaf/voice-ordering-system.git
+# أضف remote للمستودع
+git remote add origin https://github.com/atiaf77/voice-ordering-system.git
 
 # تأكد من أن الـ remote مضاف بشكل صحيح
 git remote -v
@@ -40,8 +40,8 @@ git push -u origin master
 # تغيير المجلد
 cd "C:\Users\Lenovo\Desktop\Convert the audio input to text"
 
-# إضافة remote (غيّر USERNAME إلى حسابك)
-git remote add origin https://github.com/Atiaf/voice-ordering-system.git
+# إضافة remote
+git remote add origin https://github.com/atiaf77/voice-ordering-system.git
 
 # رفع الملفات
 git push -u origin master
